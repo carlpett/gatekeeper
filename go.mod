@@ -22,7 +22,7 @@ require (
 	github.com/open-policy-agent/frameworks/constraint v0.0.0-20230606213221-6ccacf85c2c5
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.15.1
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.8.4
 	go.opencensus.io v0.24.0
 	go.uber.org/automaxprocs v1.5.2
@@ -41,7 +41,7 @@ require (
 	k8s.io/utils v0.0.0-20230209194617-a36077c30491
 	oras.land/oras-go v1.2.2
 	sigs.k8s.io/controller-runtime v0.15.0
-	sigs.k8s.io/release-utils v0.7.3
+	sigs.k8s.io/release-utils v0.7.4
 	sigs.k8s.io/yaml v1.3.0
 )
 
@@ -94,7 +94,7 @@ require (
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.11.3 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
-	github.com/inconshreveable/mousetrap v1.0.1 // indirect
+	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
@@ -104,7 +104,7 @@ require (
 	github.com/mitchellh/mapstructure v1.4.3 // indirect
 	github.com/moby/locker v1.0.1 // indirect
 	github.com/moby/sys/mountinfo v0.6.2 // indirect
-	github.com/moby/term v0.0.0-20221205130635-1aeaba878587 // indirect
+	github.com/moby/term v0.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
